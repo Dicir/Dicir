@@ -1,11 +1,14 @@
 ### Olá, sou Valdecir Fernandes 👋
 
 
-- 🔭 Atualmente estou trabalhando como Front-End de maneira especial com Wordpress
+- 🔭 Atualmente trabalho como empreendedor em 3 frentes
+- 🔭 Atuo como Front-End de maneira mais direta com Wordpress
+- 🔭 Estou em um projeto como coordenador de TI, auxiliando em projetos de Marketing Digital
+- 🔭 Por fim trabalho também com manutenção de computadores
 - 🌱 No momento estou me aprofundando em JavaScript
 - 🤔 Sempre procuro aprender, vendo cursos lendo artigos e newlatters
 - 💬 Gosto muito de Filosofia, um ponto fora da curva para esse perfil kkkkk
-- 📫 Meus contatos estão no meu perfil - Só chamar 🖖
+- 📫 Meus contatos estão logo abaixo fique a vontade para chamar! 🖖
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicir&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicir&theme=radical)
