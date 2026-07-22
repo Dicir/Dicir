@@ -6,7 +6,7 @@
 - 🔭 Estou em um projeto como coordenador de TI, auxiliando em projetos de Marketing Digital
 - 🔭 Por fim trabalho também com manutenção de computadores
 - 🌱 No momento estou me aprofundando em JavaScript
-- 🤔 Sempre procuro aprender, vendo cursos lendo artigos e newlatters
+- 🤔 Sempre procuro aprender, vendo cursos lendo artigos e newsletters
 - 💬 Gosto muito de Filosofia, um ponto fora da curva para esse perfil kkkkk
 - 📫 Meus contatos estão logo abaixo fique a vontade para chamar! 🖖
 
