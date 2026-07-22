@@ -10,8 +10,8 @@
 - 💬 Gosto muito de Filosofia, um ponto fora da curva para esse perfil kkkkk
 - 📫 Meus contatos estão logo abaixo fique a vontade para chamar! 🖖
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicir&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicir&theme=radical)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicir&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dicir&theme=radical) -->
 
 <div style="display: inline-block;"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
